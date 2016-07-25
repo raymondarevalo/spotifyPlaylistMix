@@ -1,0 +1,23 @@
+{
+  "name": "spotifyplaylistmix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondarevalo/spotifyPlaylistMix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raymondarevalo/spotifyPlaylistMix/issues"
+  },
+  "homepage": "https://github.com/raymondarevalo/spotifyPlaylistMix#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "spotify-web-api-node": "^2.3.5"
+  }
+}
